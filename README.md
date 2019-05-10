@@ -1,2 +1,3 @@
 # hello-world
-Sample repositury
+Sample repository
+Edit 1
